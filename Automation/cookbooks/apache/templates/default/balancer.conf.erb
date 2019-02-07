@@ -1,0 +1,7 @@
+<Proxy "balancer://mycluster">
+<% (1..node['lb']['num_servers']).each do |server_num| %>
+    BalancerMember "http://10.0.15.2<%= server_num %>:80"
+<% end %>
+</Proxy>
+ProxyPass        "/" "balancer://mycluster/"
+ProxyPassReverse "/" "balancer://mycluster/"

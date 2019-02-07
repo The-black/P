@@ -1,0 +1,9 @@
+{
+  "name": "lb",
+  "description": "Load-Balancer role",
+  "run_list": [
+    "recipe[apache]",
+    "recipe[apache::lb-config]"
+  ]
+}
+
