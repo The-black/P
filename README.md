@@ -1,6 +1,6 @@
-# ProofPoint devops exercise submission
+# Devops exercise submissions
 
-This repo contains my submission of ProofPoint's devops interview tasks.
+This repo contains my submission of 2 devops interview tasks.
 
 ## Task 1: [Automation](Automation)
 
