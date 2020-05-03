@@ -1,6 +1,6 @@
-# ProofPoint devops scripting task submission
+# Devops scripting task submission
 
-This folder contains my submission of ProofPoint's devops scripting task.
+This folder contains my submission of the devops scripting task.
 
 ## The task:
 Consider that you have a drive with millions of files & folders.
