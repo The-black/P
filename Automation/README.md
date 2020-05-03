@@ -1,6 +1,6 @@
-# ProofPoint devops automation task submission
+# Devops automation task submission
 
-This folder contains my submission of ProofPoint's devops automation task.
+This folder contains my submission of the devops automation task.
 
 ## The task:
 Create a vagrant environment with 3 servers and configure it using chef, puppet or ansible:
